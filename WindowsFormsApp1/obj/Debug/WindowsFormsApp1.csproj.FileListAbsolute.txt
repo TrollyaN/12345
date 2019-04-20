@@ -1,0 +1,12 @@
+S:\USERS\3502\Вахрамеев Егор Сергеевич\Vahrameev\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Database1.mdf
+S:\USERS\3502\Вахрамеев Егор Сергеевич\Vahrameev\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Database1_log.ldf
+S:\USERS\3502\Вахрамеев Егор Сергеевич\Vahrameev\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+S:\USERS\3502\Вахрамеев Егор Сергеевич\Vahrameev\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+S:\USERS\3502\Вахрамеев Егор Сергеевич\Vahrameev\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+S:\USERS\3502\Вахрамеев Егор Сергеевич\Vahrameev\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+S:\USERS\3502\Вахрамеев Егор Сергеевич\Vahrameev\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+S:\USERS\3502\Вахрамеев Егор Сергеевич\Vahrameev\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+S:\USERS\3502\Вахрамеев Егор Сергеевич\Vahrameev\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+S:\USERS\3502\Вахрамеев Егор Сергеевич\Vahrameev\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+S:\USERS\3502\Вахрамеев Егор Сергеевич\Vahrameev\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+S:\USERS\3502\Вахрамеев Егор Сергеевич\Vahrameev\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
